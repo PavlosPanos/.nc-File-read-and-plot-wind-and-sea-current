@@ -1,1 +1,1 @@
-# .nc-File-read-and-plot-wind-and-sea-current
+In this script 
